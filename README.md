@@ -8,4 +8,4 @@ This is done with the help of mealy machine conceptwithout overlapping.
 A Mealy machine is a finite state machine with an output value rather than a terminal state. The device produces a matching output for a given input. The current state of the FA and the current input symbol affect the Mealy machine's output.Mealy machines determine the output in relation to the input, unlike other finite automata that decide if a certain string is acceptable in a given language.
 
 
-[schemectic ](https://github.com/amaani90/COLOUREDBALL/assets/141518452/5e281e14-1f3d-42ac-92de-af7ba00dfe54)
+![schemectic ](https://github.com/amaani90/COLOUREDBALL/assets/141518452/5e281e14-1f3d-42ac-92de-af7ba00dfe54)
