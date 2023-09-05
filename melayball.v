@@ -65,59 +65,6 @@ endmodule
 
 
 
-/*module melayball(di,clk,rst,q
 
-    );
-input [1:0]di;
-input clk,rst;
-output reg q;
- reg [1:0]current,next;
-    parameter  a=3'b000;//1
-     parameter b=3'b001;//2
-     parameter c=3'b010;//3
-     parameter  e=3'b011;//4
-     parameter f=3'b100;//5
-     parameter g=3'b101;//6
-     parameter h=3'b110;//7
-     parameter i=3'b111;//8
-    always @(posedge clk ) begin 
-    if (rst) begin 
-   
-    current = a; end 
-    else  
-    current = next;
-   end 
-always @(current,di)
-case(current)
-a:begin  if(di==0)
- begin 
- next= f;
- q=0; end 
- else 
-next=h;
-q=0;
- end 
-b:begin if (di===01)
-begin 
-next=g;
-q=0; end 
-else 
-next=f;
-q=0;
-end 
-c:begin if (di==10)
-begin 
-next=g;
-q=0;
-end 
-else 
-next =h;
-q=1; 
-end 
-default  next=a;
- 
-endcase
 
- 
-endmodule */
 
