@@ -7,7 +7,8 @@ This is done with the help of mealy machine concept using without overlapping sc
 
 A Mealy machine is a finite state machine with an output value rather than a terminal state. The device produces a matching output for a given input. The current state of the FA and the current input symbol affect the Mealy machine's output.Mealy machines determine the output in relation to the input, unlike other finite automata that decide if a certain string is acceptable in a given language.
 Below is the state digram:
-![digram](https://github.com/amaani90/COLOURED-BALL-SEQUENCE/assets/141518452/315a899d-e888-4a20-bac4-ac6c84315fdd)
+![fig](https://github.com/amaani90/COLOURED-BALL-SEQUENCE/assets/141518452/b2a2eb70-e4f7-41a6-b892-57b3ff4d0537)
+
 
 
 
